@@ -1,0 +1,6 @@
+mysql:
+  host: localhost
+  database: jabuxnpc
+  username: root
+  password: ''
+  port: 3306

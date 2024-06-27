@@ -1,0 +1,6 @@
+name: JabuxNPC
+version: '${project.version}'
+main: net.jabux.jabuxnpc.JabuxNPC
+api-version: '1.8.8'
+commands:
+  npc:
